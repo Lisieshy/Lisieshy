@@ -2,8 +2,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Lisieshy)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Softwayback&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Softwayback&langs_count=10&layout=compact&hide=javascript" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lisieshy&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisieshy&langs_count=10&layout=compact&hide=javascript" />
 
 
 <!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kfleury)
@@ -15,7 +15,7 @@
 
 
 <!--
-**SoftWayback/Softwayback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lisieshy/Lisieshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
