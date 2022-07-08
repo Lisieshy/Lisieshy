@@ -1,18 +1,22 @@
-### Hi there 👋
+### 👋 Hello there, I'm Lisieshy ヾ(•ω•`)o
 
-![Profile views](https://gpvc.arturio.dev/Lisieshy)
+## I'm currently a student at [Epitech](https://epitech.eu) 💻
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lisieshy&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisieshy&langs_count=10&layout=compact&hide=javascript" />
+- 🇫🇷 I'm a 21 years old developer
+- 🕹️ Mostly a hobbyist game developer
+- 🐈 Definetely a cats enjoyer
+- 🎮 Clearly a video games and gacha addict
+- 🎵 I absolutely love J-Pop
+- 🗾 And you could've guessed, I'm a Japan enjoyer, currently planning to study in Tokyo! 🇯🇵
 
+---
 
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kfleury)
+### 📈 Some stats about me!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Softwayback&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Softwayback&langs_count=10)-->
-
-
+![Lisieshy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lisieshy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&icon_color=fff&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisieshy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=5&layout=compact)
+<br/>
+![Profile views](https://komarev.com/ghpvc/?username=Lisieshy&color=FD428D)
 
 <!--
 **Lisieshy/Lisieshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
