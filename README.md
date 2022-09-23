@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm Lisieshy ヾ(•ω•`)o
 
-## I'm currently a student at [Epitech](https://epitech.eu) 💻
+## I'm currently a studying abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) 💻
 
 - 🇫🇷 I'm a 21 years old developer
 - 🕹️ Mostly a hobbyist game developer
@@ -8,6 +8,8 @@
 - 🎮 Clearly a video games and gacha addict
 - 🎵 I absolutely love J-Pop
 - 🗾 And you could've guessed, I'm a Japan enjoyer, currently studying in Tokyo! 🇯🇵
+
+For my 4th year at [Epitech](https://epitech.eu) I'm currently studying abroad in Tokyo, Japan!
 
 ---
 
