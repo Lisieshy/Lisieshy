@@ -7,7 +7,7 @@
 - 🐈 Definetely a cats enjoyer
 - 🎮 Clearly a video games and gacha addict
 - 🎵 I absolutely love J-Pop
-- 🗾 And you could've guessed, I'm a Japan enjoyer, currently planning to study in Tokyo! 🇯🇵
+- 🗾 And you could've guessed, I'm a Japan enjoyer, currently studying in Tokyo! 🇯🇵
 
 ---
 
