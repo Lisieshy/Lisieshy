@@ -2,10 +2,10 @@
 
 ## I'm currently a studying abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) 💻
 
-- 🇫🇷 I'm a 21 years old developer
-- 🕹️ Mostly a hobbyist game developer
-- 🐈 Definetely a cats enjoyer
-- 🎮 Clearly a video games and gacha addict
+- 🇫🇷 I'm 21 years old
+- 🕹️ Hobbyist game developer
+- 🐈 Cats enjoyer
+- 🎮 Video games and gacha addict
 - 🎵 I absolutely love J-Pop
 - 🗾 And for my 4th year at [Epitech](https://epitech.eu) I'm currently studying abroad in Tokyo !
 
