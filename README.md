@@ -2,7 +2,7 @@
 
 ## I'm currently a studying abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) 💻
 
-- 🇫🇷 I'm 21 years old
+- 🇫🇷 I'm 22 years old
 - 🕹️ Hobbyist game developer
 - 🐈 Cats enjoyer
 - 🎮 Video games and gacha addict
