@@ -1,6 +1,8 @@
 ### 👋 Hello there, I'm Lisieshy ヾ(•ω•`)o
 
-## I'm currently in an internship at [GRDF](https://grdf.fr) as a web developer! 💻
+## I'm currently in an internship at [GE Vernova](https://www.gevernova.com/) as an internal tools developer! 💻
+
+## I'm looking for work! Contact me if you want to hire me!
 
 - 🇫🇷 I'm 22 years old
 - 🕹️ Hobbyist game developer
@@ -8,7 +10,7 @@
 - 🎮 Video games and gacha addict
 - 🎵 I absolutely love J-Pop
 - 💻 5th year student at [Epitech](https://epitech.eu/)
-- 🗾 Studied abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) for a year!
+- 🗾 Studied abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in the 2022-2023 academic year!
 
 ---
 
