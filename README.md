@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋, I'm Marine ヾ(•ω•`)o</h1>
-<h3 align="center">A passionate full stack developer from France</h3>
+<h3 align="center">A passionate full stack and applications developer from France</h3>
 
-<h2 align="center">I'm currently in an internship at <a href="https://www.gevernova.com/">GE Vernova</a> as an internal tools developer! 💻</h2>
+<h2 align="center">I'm currently working at <a href="https://www.gevernova.com/">GE Vernova</a> as an internal tools developer! 💻</h2>
 
-#### I'm actively looking for work! Contact me by email at <a href="mailto:lisieshy@catgirl.fr">lisieshy@catgirl.fr</a> if you'd like to discuss with me!
+#### I'm actively looking for new opportunities! Contact me by email at <a href="mailto:lisieshy@catgirl.fr">lisieshy@catgirl.fr</a> if you'd like to learn more about me!
 
 - 🇫🇷 I'm 23 years old
-- 💻 5th year student at [Epitech](https://epitech.eu/)
+- 💻 [Epitech](https://epitech.eu/) Alumni
 - 🗾 Studied abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in the 2022-2023 academic year
 - 🕹️ Hobbyist game developer
 - 🐈 Cats enjoyer
