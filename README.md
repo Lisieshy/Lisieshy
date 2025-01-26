@@ -1,10 +1,11 @@
 <h1 align="center">Hello 👋, I'm Marine ヾ(•ω•`)o</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<h2 align="center"> I'm actively looking for new opportunities! Contact me by email at <a href="mailto:lisieshy@catgirl.fr">lisieshy@catgirl.fr</a> if you want to talk!</h2>
+<!-- <h2 align="center"> I'm actively looking for new opportunities! Contact me by email at <a href="mailto:lisieshy@catgirl.fr">lisieshy@catgirl.fr</a> if you want to talk!</h2> -->
 
+- 💻 Working as a backend Rust dev @ [Sismic](https://sismic.fr)
 - 🇫🇷 I'm 23 years old
-- 💻 [Epitech](https://epitech.eu/) Alumni
+- 🎓 [Epitech](https://epitech.eu/) Alumni
 - 🗾 Studied abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in the 2022-2023 academic year
 - 🕹️ Hobbyist game developer
 - 🐈 Cats enjoyer
