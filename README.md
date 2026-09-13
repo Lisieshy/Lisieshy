@@ -19,7 +19,8 @@
 - 💻 Working as a **backend Rust dev** @ [SISMIC](https://sismic.fr)
 - 🎓 [Epitech](https://epitech.eu/) Alumni
 - 🗾 Studied abroad at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) (2022–2023)
-- 🎮 Rhythm games & gacha addict
+- 🎮 Rhythm games addict
+- 🐴 Umamusume Enjoyer
 - 🕹️ Hobbyist game developer
 - 🐈 Cats enjoyer
 - 🇯🇵 Studying Japanese
